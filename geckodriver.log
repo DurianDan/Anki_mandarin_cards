@@ -1,0 +1,730 @@
+1627141081795	geckodriver	INFO	Listening on 127.0.0.1:42335
+1627141082814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledDtsRt"
+Gtk-Message: 22:38:02.883: Failed to load module "appmenu-gtk-module"
+1627141083595	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:38:04.419: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:38:04.530: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledDtsRt/search.json.mozlz4", (void 0)))
+1627141085749	Marionette	INFO	Listening on port 42069
+Gtk-Message: 22:38:05.762: Failed to load module "appmenu-gtk-module"
+1627141085853	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627147406070	geckodriver	INFO	Listening on 127.0.0.1:60101
+1627147407081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UYE6c"
+Gtk-Message: 00:23:27.118: Failed to load module "appmenu-gtk-module"
+1627147407598	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:23:28.145: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:23:28.227: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8UYE6c/search.json.mozlz4", (void 0)))
+1627147409048	Marionette	INFO	Listening on port 34945
+1627147409098	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:23:29.143: Failed to load module "appmenu-gtk-module"
+1627147428526	Marionette	INFO	Stopped listening on port 34945
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627147448024	geckodriver	INFO	Listening on 127.0.0.1:55363
+1627147448027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepbBNn8"
+Gtk-Message: 00:24:08.043: Failed to load module "appmenu-gtk-module"
+1627147448503	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:24:09.122: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:24:09.202: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepbBNn8/search.json.mozlz4", (void 0)))
+1627147450024	Marionette	INFO	Listening on port 39003
+1627147450049	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:24:10.112: Failed to load module "appmenu-gtk-module"
+1627147463780	Marionette	INFO	Stopped listening on port 39003
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627225134887	geckodriver	INFO	Listening on 127.0.0.1:40859
+1627225135904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6eTWe1"
+Gtk-Message: 21:58:55.952: Failed to load module "appmenu-gtk-module"
+1627225136446	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:58:56.980: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:58:57.042: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6eTWe1/search.json.mozlz4", (void 0)))
+1627225137925	Marionette	INFO	Listening on port 37037
+Gtk-Message: 21:58:57.967: Failed to load module "appmenu-gtk-module"
+1627225138021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627225144881	Marionette	INFO	Stopped listening on port 37037
+1627309731387	geckodriver	INFO	Listening on 127.0.0.1:33905
+1627309731392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-data-dir=/home/duriandan/.mozilla/firefox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNN6jAk"
+Gtk-Message: 21:28:51.420: Failed to load module "appmenu-gtk-module"
+1627309732155	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:28:53.112: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:28:53.168: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNN6jAk/search.json.mozlz4", (void 0)))
+Gtk-Message: 21:28:54.438: Failed to load module "appmenu-gtk-module"
+1627309734483	Marionette	INFO	Listening on port 45039
+1627309734532	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:30:23.489: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:32:05.553: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:32:07.698: Failed to load module "appmenu-gtk-module"
+1627309929892	Marionette	INFO	Stopped listening on port 45039
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627309931797	geckodriver	INFO	Listening on 127.0.0.1:42589
+1627309931804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-data-dir=/home/duriandan/.mozilla/firefox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCyHWm"
+Gtk-Message: 21:32:11.837: Failed to load module "appmenu-gtk-module"
+1627309932577	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:32:13.521: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:32:13.578: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUCyHWm/search.json.mozlz4", (void 0)))
+1627309934877	Marionette	INFO	Listening on port 37197
+Gtk-Message: 21:32:14.879: Failed to load module "appmenu-gtk-module"
+1627309934934	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:918:3
+
+Gtk-Message: 21:33:38.272: Failed to load module "appmenu-gtk-module"
+1627310019157	Marionette	INFO	Stopped listening on port 37197
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627314688330	geckodriver	INFO	Listening on 127.0.0.1:50511
+1627314689347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjhuv6"
+Gtk-Message: 22:51:29.376: Failed to load module "appmenu-gtk-module"
+1627314690156	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:51:31.156: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:51:31.277: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOjhuv6/search.json.mozlz4", (void 0)))
+Gtk-Message: 22:51:32.581: Failed to load module "appmenu-gtk-module"
+1627314692584	Marionette	INFO	Listening on port 44585
+1627314692677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314800333	Marionette	INFO	Stopped listening on port 44585
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577927794	geckodriver	INFO	Listening on 127.0.0.1:39897
+1627577928815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FxpKB"
+Gtk-Message: 23:58:48.901: Failed to load module "appmenu-gtk-module"
+1627577929493	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:58:49.902: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:58:49.981: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7FxpKB/search.json.mozlz4", (void 0)))
+1627577930937	Marionette	INFO	Listening on port 37931
+Gtk-Message: 23:58:50.945: Failed to load module "appmenu-gtk-module"
+1627577931038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577961424	Marionette	INFO	Stopped listening on port 37931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577965049	geckodriver	INFO	Listening on 127.0.0.1:58365
+1627577965052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerFxiyR"
+Gtk-Message: 23:59:25.071: Failed to load module "appmenu-gtk-module"
+1627577965505	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:59:25.920: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:59:26.008: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerFxiyR/search.json.mozlz4", (void 0)))
+1627577966860	Marionette	INFO	Listening on port 37499
+Gtk-Message: 23:59:26.922: Failed to load module "appmenu-gtk-module"
+1627577966972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577968070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627577980081	Marionette	INFO	Stopped listening on port 37499
+1627621044397	geckodriver	INFO	Listening on 127.0.0.1:53109
+1627621045411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7B8qYY"
+Gtk-Message: 11:57:25.437: Failed to load module "appmenu-gtk-module"
+1627621045920	Marionette	INFO	Marionette enabled
+Gtk-Message: 11:57:26.267: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:57:26.338: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7B8qYY/search.json.mozlz4", (void 0)))
+1627621047221	Marionette	INFO	Listening on port 41553
+Gtk-Message: 11:57:27.266: Failed to load module "appmenu-gtk-module"
+1627621047327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627621097282	Marionette	INFO	Stopped listening on port 41553
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627621103553	geckodriver	INFO	Listening on 127.0.0.1:53299
+1627621103556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley4rViW"
+Gtk-Message: 11:58:23.575: Failed to load module "appmenu-gtk-module"
+1627621104032	Marionette	INFO	Marionette enabled
+Gtk-Message: 11:58:24.404: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:58:24.479: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley4rViW/search.json.mozlz4", (void 0)))
+1627621105214	Marionette	INFO	Listening on port 41519
+1627621105271	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:58:25.352: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627621132204	Marionette	INFO	Stopped listening on port 41519
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627621133312	geckodriver	INFO	Listening on 127.0.0.1:44269
+1627621133316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5sp4IW"
+Gtk-Message: 11:58:53.332: Failed to load module "appmenu-gtk-module"
+1627621133804	Marionette	INFO	Marionette enabled
+Gtk-Message: 11:58:54.148: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:58:54.221: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5sp4IW/search.json.mozlz4", (void 0)))
+1627621134993	Marionette	INFO	Listening on port 37365
+1627621135032	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:58:55.210: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627621169851	Marionette	INFO	Stopped listening on port 37365
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627621328654	geckodriver	INFO	Listening on 127.0.0.1:53751
+1627621328657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJYD2G"
+Gtk-Message: 12:02:08.674: Failed to load module "appmenu-gtk-module"
+1627621329130	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:02:09.485: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:02:09.554: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefJYD2G/search.json.mozlz4", (void 0)))
+1627621330347	Marionette	INFO	Listening on port 41457
+1627621330372	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:02:10.469: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627621353717	Marionette	INFO	Stopped listening on port 41457
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627621444437	geckodriver	INFO	Listening on 127.0.0.1:45201
+1627621444440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehLhpm6"
+Gtk-Message: 12:04:04.457: Failed to load module "appmenu-gtk-module"
+1627621444925	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:04:05.289: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:04:05.356: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehLhpm6/search.json.mozlz4", (void 0)))
+1627621446244	Marionette	INFO	Listening on port 40547
+Gtk-Message: 12:04:06.264: Failed to load module "appmenu-gtk-module"
+1627621446277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4222584914186338304/index.html#t=4995101098644295069&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 282: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627621707319	Marionette	INFO	Stopped listening on port 40547
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627622622980	geckodriver	INFO	Listening on 127.0.0.1:35871
+1627622622984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQkZd20"
+Gtk-Message: 12:23:43.004: Failed to load module "appmenu-gtk-module"
+1627622623526	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:23:43.947: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:23:44.027: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQkZd20/search.json.mozlz4", (void 0)))
+1627622624886	Marionette	INFO	Listening on port 43361
+1627622624919	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:23:44.931: Failed to load module "appmenu-gtk-module"
+1627622627099	Marionette	INFO	Stopped listening on port 43361
+1627622640567	geckodriver	INFO	Listening on 127.0.0.1:58595
+1627622640570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyjnqgv"
+Gtk-Message: 12:24:00.587: Failed to load module "appmenu-gtk-module"
+1627622641044	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:24:01.393: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:24:01.472: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyjnqgv/search.json.mozlz4", (void 0)))
+1627622642365	Marionette	INFO	Listening on port 43027
+Gtk-Message: 12:24:02.384: Failed to load module "appmenu-gtk-module"
+1627622642392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627622656798	Marionette	INFO	Stopped listening on port 43027
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627624048192	geckodriver	INFO	Listening on 127.0.0.1:33459
+1627624048195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdLaB9"
+Gtk-Message: 12:47:28.212: Failed to load module "appmenu-gtk-module"
+1627624048703	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:47:29.071: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:47:29.177: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdLaB9/search.json.mozlz4", (void 0)))
+1627624050022	Marionette	INFO	Listening on port 35953
+Gtk-Message: 12:47:30.131: Failed to load module "appmenu-gtk-module"
+1627624050144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624059620	Marionette	INFO	Stopped listening on port 35953
+1627624151324	geckodriver	INFO	Listening on 127.0.0.1:38931
+1627624151327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledWKLx1"
+Gtk-Message: 12:49:11.342: Failed to load module "appmenu-gtk-module"
+1627624151803	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:49:12.176: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:49:12.247: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledWKLx1/search.json.mozlz4", (void 0)))
+1627624152979	Marionette	INFO	Listening on port 46493
+1627624153057	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:49:13.120: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624185316	Marionette	INFO	Stopped listening on port 46493
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627624201006	geckodriver	INFO	Listening on 127.0.0.1:49511
+1627624201009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNuttyR"
+Gtk-Message: 12:50:01.024: Failed to load module "appmenu-gtk-module"
+1627624201444	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:50:01.772: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:50:01.837: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNuttyR/search.json.mozlz4", (void 0)))
+1627624202520	Marionette	INFO	Listening on port 34861
+1627624202640	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:50:02.771: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624213109	Marionette	INFO	Stopped listening on port 34861
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627624300947	geckodriver	INFO	Listening on 127.0.0.1:57809
+1627624300950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBnis1"
+Gtk-Message: 12:51:40.966: Failed to load module "appmenu-gtk-module"
+1627624301407	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:51:41.750: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:51:41.815: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHBnis1/search.json.mozlz4", (void 0)))
+1627624302540	Marionette	INFO	Listening on port 44491
+1627624302564	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:51:42.739: Failed to load module "appmenu-gtk-module"
+1627624311432	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624314615	Marionette	INFO	Stopped listening on port 44491
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0024,name=PNecko::Msg_RequestContextAfterDOMContentLoaded) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1627624327422	geckodriver	INFO	Listening on 127.0.0.1:53737
+1627624327425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5EkM57"
+Gtk-Message: 12:52:07.441: Failed to load module "appmenu-gtk-module"
+1627624327855	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:52:08.192: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:52:08.255: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5EkM57/search.json.mozlz4", (void 0)))
+1627624328983	Marionette	INFO	Listening on port 35459
+1627624329041	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:52:09.174: Failed to load module "appmenu-gtk-module"
+1627624333107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627624337289	Marionette	INFO	Stopped listening on port 35459
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624354136	geckodriver	INFO	Listening on 127.0.0.1:41501
+1627624354139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRXYiTk"
+Gtk-Message: 12:52:34.154: Failed to load module "appmenu-gtk-module"
+1627624354572	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:52:34.908: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:52:34.978: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRXYiTk/search.json.mozlz4", (void 0)))
+1627624355632	Marionette	INFO	Listening on port 33001
+1627624355660	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:52:35.896: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627624371170	Marionette	INFO	Stopped listening on port 33001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627654436210	geckodriver	INFO	Listening on 127.0.0.1:33439
+1627654437227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRWG77"
+Gtk-Message: 21:13:57.275: Failed to load module "appmenu-gtk-module"
+1627654437741	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:13:58.253: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:13:58.320: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiRWG77/search.json.mozlz4", (void 0)))
+1627654438945	Marionette	INFO	Listening on port 40439
+1627654439049	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:13:59.273: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627654500057	Marionette	INFO	Stopped listening on port 40439
+1627655058409	geckodriver	INFO	Listening on 127.0.0.1:54853
+1627655058412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezyLwHn"
+Gtk-Message: 21:24:18.427: Failed to load module "appmenu-gtk-module"
+1627655058930	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:24:19.443: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:24:19.504: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezyLwHn/search.json.mozlz4", (void 0)))
+1627655060162	Marionette	INFO	Listening on port 33895
+1627655060227	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:24:20.430: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627655151962	Marionette	INFO	Stopped listening on port 33895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627656285025	geckodriver	INFO	Listening on 127.0.0.1:58961
+1627656285028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU1KF5K"
+Gtk-Message: 21:44:45.043: Failed to load module "appmenu-gtk-module"
+1627656290520	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:44:51.047: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:44:51.111: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU1KF5K/search.json.mozlz4", (void 0)))
+1627656291711	Marionette	INFO	Listening on port 35189
+1627656291765	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:44:52.015: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627656354356	Marionette	INFO	Stopped listening on port 35189
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627656384321	geckodriver	INFO	Listening on 127.0.0.1:33135
+1627656384325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJHqHp8"
+Gtk-Message: 21:46:24.339: Failed to load module "appmenu-gtk-module"
+1627656384793	Marionette	INFO	Marionette enabled
+Gtk-Message: 21:46:25.307: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:46:25.368: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJHqHp8/search.json.mozlz4", (void 0)))
+1627656386086	Marionette	INFO	Listening on port 41117
+1627656386140	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:46:26.320: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627656525843	Marionette	INFO	Stopped listening on port 41117
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627661992045	geckodriver	INFO	Listening on 127.0.0.1:45201
+1627661992048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeDdAEb"
+Gtk-Message: 23:19:52.063: Failed to load module "appmenu-gtk-module"
+1627661992496	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:19:53.003: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:19:53.064: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeDdAEb/search.json.mozlz4", (void 0)))
+1627661993864	Marionette	INFO	Listening on port 41475
+1627661993966	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 23:19:54.008: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627662002566	Marionette	INFO	Stopped listening on port 41475
+1627668245903	geckodriver	INFO	Listening on 127.0.0.1:55685
+1627668245907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew5HLdE"
+Gtk-Message: 01:04:05.925: Failed to load module "appmenu-gtk-module"
+1627668251455	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:04:11.955: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:04:12.024: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew5HLdE/search.json.mozlz4", (void 0)))
+1627668252811	Marionette	INFO	Listening on port 35457
+1627668252839	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:04:12.948: Failed to load module "appmenu-gtk-module"
+1627668255768	Marionette	INFO	Stopped listening on port 35457
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627668327917	geckodriver	INFO	Listening on 127.0.0.1:51237
+1627668327920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaeJRPq"
+Gtk-Message: 01:05:27.935: Failed to load module "appmenu-gtk-module"
+1627668328395	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:05:28.925: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:05:28.991: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaeJRPq/search.json.mozlz4", (void 0)))
+1627668329706	Marionette	INFO	Listening on port 45367
+1627668329736	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:05:29.934: Failed to load module "appmenu-gtk-module"
+1627668333193	Marionette	INFO	Stopped listening on port 45367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ExceptionHandler::GenerateDump cloned child 18771
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1627668348022	geckodriver	INFO	Listening on 127.0.0.1:56775
+1627668348025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNB9PD"
+Gtk-Message: 01:05:48.040: Failed to load module "appmenu-gtk-module"
+1627668348454	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:05:48.967: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:05:49.030: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFNB9PD/search.json.mozlz4", (void 0)))
+1627668349652	Marionette	INFO	Listening on port 34923
+1627668349751	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:05:49.956: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627668409126	Marionette	INFO	Stopped listening on port 34923
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627668410471	geckodriver	INFO	Listening on 127.0.0.1:39585
+1627668410474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7hIlzS"
+Gtk-Message: 01:06:50.491: Failed to load module "appmenu-gtk-module"
+1627668410947	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:06:51.456: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:06:51.528: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7hIlzS/search.json.mozlz4", (void 0)))
+1627668412157	Marionette	INFO	Listening on port 38195
+1627668412190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:06:52.444: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css without a browsingContextID set
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 01:08:24.534: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:08:26.133: Failed to load module "appmenu-gtk-module"
+1627668506561	Marionette	INFO	Stopped listening on port 38195
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627668508232	geckodriver	INFO	Listening on 127.0.0.1:56733
+1627668508235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoOrwuG"
+Gtk-Message: 01:08:28.252: Failed to load module "appmenu-gtk-module"
+1627668513691	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:08:34.211: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:08:34.276: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoOrwuG/search.json.mozlz4", (void 0)))
+1627668514907	Marionette	INFO	Listening on port 41157
+1627668514964	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:08:35.208: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627668585099	Marionette	INFO	Stopped listening on port 41157
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627668586716	geckodriver	INFO	Listening on 127.0.0.1:39857
+1627668586719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOQeSi"
+Gtk-Message: 01:09:46.733: Failed to load module "appmenu-gtk-module"
+1627668587189	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:09:47.699: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:09:47.768: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehOQeSi/search.json.mozlz4", (void 0)))
+1627668588402	Marionette	INFO	Listening on port 46289
+1627668588449	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:09:48.718: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627668605639	Marionette	INFO	Stopped listening on port 46289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627668609932	geckodriver	INFO	Listening on 127.0.0.1:48027
+1627668609935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeYmNGj"
+Gtk-Message: 01:10:09.950: Failed to load module "appmenu-gtk-module"
+1627668615415	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:10:15.928: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:10:15.988: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeYmNGj/search.json.mozlz4", (void 0)))
+1627668616698	Marionette	INFO	Listening on port 36797
+1627668616765	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:10:16.952: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 01:10:27.878: Failed to load module "appmenu-gtk-module"
+1627668630117	Marionette	INFO	Stopped listening on port 36797
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627668653482	geckodriver	INFO	Listening on 127.0.0.1:43581
+1627668653485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuaz54S"
+Gtk-Message: 01:10:53.500: Failed to load module "appmenu-gtk-module"
+1627668653965	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:10:54.475: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:10:54.543: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuaz54S/search.json.mozlz4", (void 0)))
+1627668655248	Marionette	INFO	Listening on port 42017
+1627668655303	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:10:55.514: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css without a browsingContextID set
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:140:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:140:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:140:48
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hvdic.thivien.net"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error sending event: picker-node-picked"
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 160))
+TypeError: this.walker is null: form@resource://devtools/server/actors/inspector/node.js:160:24
+write@resource://devtools/shared/protocol/types.js:358:32
+write@resource://devtools/shared/protocol/types.js:263:39
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onPick@resource://devtools/server/actors/inspector/node-picker.js:102:18
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 01:16:48.710: Failed to load module "appmenu-gtk-module"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/17030514182861037204/FLC970x90/FLC970x90.js, line 1267: TypeError: createjs.StageGL is not a constructor
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/17030514182861037204/FLC970x90/FLC970x90.html#t=14812592989095323242&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 7: TypeError: AdobeAn.getComposition is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.isDeadWrapper]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/custom-element-watcher.js :: _isValidNode :: line 139"  data: no]
+Stack: _isValidNode@resource://devtools/server/actors/inspector/custom-element-watcher.js:139:11
+unmanageNode@resource://devtools/server/actors/inspector/custom-element-watcher.js:76:15
+unmanage@resource://devtools/server/actors/inspector/walker.js:453:33
+destroy@resource://devtools/shared/protocol/Pool.js:173:14
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:136:38
+destroy@resource://devtools/shared/protocol/Pool.js:199:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/walker.js:374:38
+destroy@resource://devtools/shared/protocol/Pool.js:199:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:113:38
+destroy@resource://devtools/shared/protocol/Pool.js:199:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:1032:35
+destroy@resource://devtools/server/actors/targets/browsing-context.js:603:10
+onTransportClosed/<@resource://devtools/server/devtools-server-connection.js:493:34
+onTransportClosed@resource://devtools/server/devtools-server-connection.js:493:19
+close@resource://devtools/shared/transport/child-transport.js:63:18
+close@resource://devtools/server/devtools-server-connection.js:94:23
+onDisconnect<@resource://devtools/server/startup/frame.js:121:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 139, column: 0
+console.error: ({})
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627669533958	Marionette	INFO	Stopped listening on port 42017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627670169710	geckodriver	INFO	Listening on 127.0.0.1:54919
+1627670169714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTXo6MJ"
+Gtk-Message: 01:36:09.794: Failed to load module "appmenu-gtk-module"
+1627670170343	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:36:10.872: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:36:10.940: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTXo6MJ/search.json.mozlz4", (void 0)))
+1627670171743	Marionette	INFO	Listening on port 46781
+1627670171835	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 01:36:11.887: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627670221685	Marionette	INFO	Stopped listening on port 46781
