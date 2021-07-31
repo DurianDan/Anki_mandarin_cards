@@ -9,15 +9,14 @@ options.page_load_strategy = 'none'
 driver = webdriver.Firefox()
 
 driver.get(
-            """https://hvdic.thivien.net/whv/%E7%83%B9%E9%A5%AA%E6%96%B9%E5%BC%8F""")
+            "https://www.yellowbridge.com/chinese/dictionary.php")
+print("* successfully loaded the web page for the first time")
+driver.find_element_by_xpath(
+    """//*[@id="hwWord"]""").send_keys(
+        '调味料',Keys.ENTER)
+(WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, '''/html/body/div/main/div/div[2]/ul/li[3]/a'''))
+    )).click()
 
-            
 
-try:
-    element = driver.find_element_by_xpath("""/html/body/section/div[3]/div[2]/div/p/span[3]""")
-    element.click()
-    han = driver.find_element_by_xpath('''/html/body/section/div[3]/div[2]/div[2]/div''').text
-    print(han)
-finally:
-    pass 
-
+print(type((driver.find_element_by_xpath('''/html/body/div[1]/main/div/div[3]/table[2]/tbody/tr/td''').text).strip("\n")))
