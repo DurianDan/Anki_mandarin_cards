@@ -7,18 +7,8 @@ from selenium.webdriver.chrome.options import Options
 options = Options()
 options.page_load_strategy = 'none'
 driver = webdriver.Chrome(options=options)
-
-driver.get(
-            "https://www.chineseboost.com/chinese-example-sentences?query=烹饪方式")
-print("* successfully loaded the web page for the first time")
-
-search_resault = 0
-
-search_resault = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.XPATH, '''/html/body/div[2]/div[7]/div/div'''))
-    )
-
-words = search_resault.text.split("\n")
-print(words)
-
-
+for i in ['辣','咸','甜','苦','咸','甜','苦']:
+    driver.get("""https://www.chineseboost.com/chinese-example-sentences""")
+    driver.find_element_by_xpath(
+        '''/html/body/div[2]/form/div/input'''
+    ).send_keys(i,Keys.ENTER)
