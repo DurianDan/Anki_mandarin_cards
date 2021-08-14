@@ -225,8 +225,8 @@ class mandarin_json():
             src = img.get_attribute('src')
             # download the image
             urllib.request.urlretrieve(src,directory+"/"+self.word+"/"+char+".gif")
-
-for man in ['鱼酱']:
+'味道','酸','辣','咸','甜','苦','清淡','油腻','好吃','烹饪方式','煮','炖','炒','煎','烧烤','蒸','调味料','盐','醋','酱油','鱼酱','辣椒酱','胡椒粉','糖','番茄酱','油']:
+for man in [
     mandarin1 = mandarin_json(man,'''/home/duriandan/learning/personal project/Anki card adding (Na's ma)/metadata''')
     mandarin1.get_Meaning_Pinyin_Example()
     mandarin1.get_Examples()
@@ -248,8 +248,4 @@ for man in ['鱼酱']:
         for i in mandarin1.HanViet:
             mandarin1text.write("* "+i+": "+str(mandarin1.HanViet[i])+"\n")
         mandarin1text.write("__________________________________\n")
-    '''    for i in mandarin1.HanViet:
-            mandarin1text.write("* "+mandarin1.HanViet+": "+mandarin1.HanViet[i])
-        mandarin1text.write("__________________________________\n")
-    '''
-driver.quit()
+
