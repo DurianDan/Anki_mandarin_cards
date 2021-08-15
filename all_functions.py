@@ -10,7 +10,6 @@ from gtts import gTTS
 from os import listdir,mkdir
 import urllib.request
 
-from urllib3.packages.six import b
 
 driver = webdriver.Chrome()
 
@@ -225,9 +224,9 @@ class mandarin_json():
             src = img.get_attribute('src')
             # download the image
             urllib.request.urlretrieve(src,directory+"/"+self.word+"/"+char+".gif")
-'味道','酸','辣','咸','甜','苦','清淡','油腻','好吃','烹饪方式','煮','炖','炒','煎','烧烤','蒸','调味料','盐','醋','酱油','鱼酱','辣椒酱','胡椒粉','糖','番茄酱','油']:
-for man in [
-    mandarin1 = mandarin_json(man,'''/home/duriandan/learning/personal project/Anki card adding (Na's ma)/metadata''')
+
+for man in ['番茄酱','油']:
+    mandarin1 = mandarin_json(man,'''/home/durian/learning/personal project/Anki card adding (Na's ma)/metadata''')
     mandarin1.get_Meaning_Pinyin_Example()
     mandarin1.get_Examples()
     mandarin1.get_HanViet()
@@ -235,7 +234,7 @@ for man in [
     mandarin1.save_stroke_oder()
     if len(mandarin1.component_words) >1 and len(mandarin1.Examples) <= len(mandarin1.component_words):
         mandarin1.get_Examples_components()
-    with open('''/home/duriandan/learning/personal project/Anki card adding (Na's ma)/metadata/pointer(json)/{}.txt'''.format(mandarin1.word),"w") as mandarin1text:
+    with open('''/home/durian/learning/personal project/Anki card adding (Na's ma)/metadata/pointer(json)/{}.txt'''.format(mandarin1.word),"w") as mandarin1text:
         for i in mandarin1.meanings:
             mandarin1text.write("* "+i+": "+mandarin1.meanings[i]+"\n")
         mandarin1text.write("________________________________\n")
