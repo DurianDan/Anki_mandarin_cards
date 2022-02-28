@@ -203,14 +203,14 @@ class mandarin_json():
         directory = self.folder+"/mp3"
         '''turn mandarin to speech, and save in mp3
         default save directory: 
-        /home/duriandan/learning/personal project/Anki card adding (Na's ma)/metadata/mp3'''
+        /home/duriandan/learning/personal project/Anki card adding/metadata/mp3'''
         tts = gTTS(self.word,lang="zh")
         tts.save(directory+"/"+self.word+".mp3")
     def save_stroke_oder(self):
         directory=self.folder+"/gif"
         '''Get Stroke order of every letter
         Default directory:
-        /home/duriandan/learning/personal project/Anki card adding (Na's ma)/metadata/gif'''
+        /home/duriandan/learning/personal project/Anki card adding/metadata/gif'''
         if self.word not in listdir(directory):
             mkdir(directory+"/"+self.word)
             print("directory {} is just added".format(self.word))
@@ -226,7 +226,7 @@ class mandarin_json():
             urllib.request.urlretrieve(src,directory+"/"+self.word+"/"+char+".gif")
 
 for man in ['番茄酱','油']:
-    mandarin1 = mandarin_json(man,'''/home/durian/learning/personal project/Anki card adding (Na's ma)/metadata''')
+    mandarin1 = mandarin_json(man,'''/home/durian/learning/personal project/Anki card adding/metadata''')
     mandarin1.get_Meaning_Pinyin_Example()
     mandarin1.get_Examples()
     mandarin1.get_HanViet()
@@ -234,7 +234,7 @@ for man in ['番茄酱','油']:
     mandarin1.save_stroke_oder()
     if len(mandarin1.component_words) >1 and len(mandarin1.Examples) <= len(mandarin1.component_words):
         mandarin1.get_Examples_components()
-    with open('''/home/durian/learning/personal project/Anki card adding (Na's ma)/metadata/pointer(json)/{}.txt'''.format(mandarin1.word),"w") as mandarin1text:
+    with open('''/home/durian/learning/personal project/Anki card adding/metadata/pointer(json)/{}.txt'''.format(mandarin1.word),"w") as mandarin1text:
         for i in mandarin1.meanings:
             mandarin1text.write("* "+i+": "+mandarin1.meanings[i]+"\n")
         mandarin1text.write("________________________________\n")
